@@ -1,0 +1,11 @@
+.env
+.venv/
+.cache/
+__pycache__/
+*.pyc
+Capstone_Project_Dataset_FTTT_2026/
+dataset/
+outputs/
+eval_results/
+*.wav
+!sample_outputs/**/*.wav
